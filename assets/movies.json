@@ -1,0 +1,35 @@
+{
+    "movies" :
+    [
+        {
+            "title" : "Batman: The killing joke",
+            "year"  : "2016",
+            "genres"    : "Animation, crime, drama, action",
+            "poster"    : "https://vignette.wikia.nocookie.net/batman/images/9/9f/BTKJ.jpg/revision/latest/scale-to-width-down/350?cb=20160503185920&path-prefix=es"
+        },
+        {
+            "title" : "Batman: Bad Blood",
+            "year"  : "2016",
+            "genres"    : "Animation, Action",
+            "poster"    : "https://vignette.wikia.nocookie.net/batman/images/4/43/Bad-Blood.jpg/revision/latest/scale-to-width-down/350?cb=20160116123819&path-prefix=es"
+        },
+        {
+            "title" : "Batman: Hush",
+            "year"  : "2019",
+            "genres"    : "Animation, crime, drama",
+            "poster"    : "https://vignette.wikia.nocookie.net/batman/images/a/a9/Batman_Hush_2019.png/revision/latest/scale-to-width-down/350?cb=20190516165854&path-prefix=es"
+        },
+        {
+            "title" : "Batman: Batman & Harley Quinn",
+            "year"  : "2017",
+            "genres"    : "Animation, crime, drama",
+            "poster"    : "https://vignette.wikia.nocookie.net/batman/images/e/e9/Batman_and_Harley_Quinn_-_Caratula.jpg/revision/latest/scale-to-width-down/350?cb=20170530220047&path-prefix=es"
+        },
+        {
+            "title" : "Batman: Return of the Joker",
+            "year"  : "2000",
+            "genres"    : "Animation, Action",
+            "poster"    : "https://vignette.wikia.nocookie.net/batman/images/f/f0/F.jpg/revision/latest?cb=20120217172534&path-prefix=es"
+        }
+    ]
+}
